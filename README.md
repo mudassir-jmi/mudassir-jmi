@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Md Mudassir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Problem Solver from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React js, Next Js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ff5b6.web.app/](https://portfolio-ff5b6.web.app/)
+- 👨‍💻 All of my projects are available at [https://mudassir-topaz.vercel.app/](https://mudassir-topaz.vercel.app/)
 
 - 💬 Ask me about **CSS,JavaScript,React, Next Js**
 
-- 📫 How to reach me **mudassirakhter420@gmail.com**
+- 📫 How to reach me **mudassir7991@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pJS7yhWvIsPZ6msg3lrvLjxXLIknV1DD/view?usp=sharing](https://drive.google.com/file/d/1pJS7yhWvIsPZ6msg3lrvLjxXLIknV1DD/view?usp=sharing)
 
